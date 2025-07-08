@@ -29,7 +29,7 @@ Predict GPA using:
 - `knn_model.ipynb` – KNN regression notebook
 - `knn_results.csv` – Results for Power BI
 - `dashboard.png` – Power BI visual
-- `Data Science Nava.docx` – Full project write-up
+- `Machine Learning with KNN Reggregation GPA Prediction with KNN Data Science Project.pdf` – Full project write-up
 
 ## 👩‍💻 Author
 **Nur Qistina** – Data Science Enthusiast  
