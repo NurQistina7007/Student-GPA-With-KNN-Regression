@@ -35,4 +35,7 @@ Predict GPA using:
 **Nur Qistina** – Data Science Enthusiast  
 🔗 www.linkedin.com/in/nur-qistina-mohammed-amin-1b3809202
 
+![image](https://github.com/user-attachments/assets/fd17dda1-cb42-4ff2-847c-7f33085372ad)
+
+
 
